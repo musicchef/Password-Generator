@@ -26,3 +26,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Deployment
+![image](https://github.com/musicchef/Password-Generator/assets/135558356/9e2586d9-6a5f-402a-b92d-65c1e9ddccef)
+
+The site is live at https://musicchef.github.io/Password-Generator/
+
